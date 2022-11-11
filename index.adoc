@@ -5,7 +5,7 @@ include::header.adoc[]
 
 :course: CS 113
 :title: Computer Science I
-:term: Fall 2022
+:term: Spring 2023
 
 = {course}: {title} -- {term}
 
@@ -89,9 +89,10 @@ All graded work will receive a grade, 4.0, 3.7, 3.3, 3.0, 2.7, 2.3, 2.0, 1.7,
 as a weighted average of all grades according to the following weights:
 
 |===
-| 35% | Final Exam
+| 30% | Final Exam
 | 35% | Assignments
-| 30% | Labs
+| 20% | Midterm
+| 10% | Lab
 |  5% | Participation 
 |===
 

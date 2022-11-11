@@ -1,31 +1,34 @@
 
 
-[cols="1,2,6a", options="header"]
+[cols="1,1,5a,2", options="header"]
 |===
 | Week 
 | Date 
-| Topics & ToDo
+| Topics & Readings
+| Assignment
 
 //-----------------------------
-| 0
-| Week of Aug 29
-| *Course introduction, Hello World* anchor:week01[]
+| 1
+| Week of January 16
+| *Course introduction, Hello World* anchor:week01[] link:slides-azpoliak/.pdf[Lecture 01 slides] 
 
 * Algorithms, command line interface (CLI), compilation and running
 * Read: Sedgewick and Wayne, Sec 1.1
 * Read: link:develEnvSetup.html[Setting up your development environment]
-* link:asst00.html[Assignment 0]: *Due September 8th*
-* link:notes-alinen/notes-aug29.html[Lecture Notes and Resources (Normoyle)] 
-* link:notes-azpoliak/notes-aug29.html[Lecture Notes and Resources (Poliak)]
-* link:slides-azpoliak/lecture00_introduction_08_30.pdf[Lecture 00 slides (Poliak)] link:slides-azpoliak/lecture01_09_01.pdf[Lecture 01 slides (Poliak)] 
-* Lab activity: Setting up your development environment 
+
+**Variables and data types** link:slides-azpoliak/lecture02_01_19.pdf[Lecture 02 slides] 
+
+* link:notes/notes-jan17.html[Lecture Notes and Resources]
+
+| link:asst.html[Assignment 01]: **Due September 8th**
+
+Lab activity: Setting up your development environment 
 
 //-----------------------------
-| 1 
-| Week of Sept 5
+| 2 
+| Week of January 23rd
 | *Variables and data types* anchor:week02[]
 
-* *NO LECTURE MONDAY, September 5th* 
 * link:asst01.html[Assignment 1]: *Due September 15th*
 * Terminal, directories/files, Input and output, Basic data types (int,double,String), Variables 
 * Read: Sedgewick and Wayne, Sec 1.2 (Skip `boolean`)
@@ -35,8 +38,8 @@
 * Lab activity: Code Jam 01 Practice, link:jam1Guide.html[Jam 1 Study Guide]
 
 //-----------------------------
-|2
-| Week of Sept 12th
+|3
+| Week of January 30th
 |*Conditionals* anchor:week03[]
 
 * Read: Sedgewick and Wayne, Sec 1.2 (`boolean`), Sec 1.3 (`if/else`)
@@ -47,8 +50,8 @@
 * Lab activity: Code Jam 01, link:jam1Guide.html[Jam 1 Study Guide]
 
 //-----------------------------
-|3
-| Week of Sept 19th
+|4
+| Week of February 6th
 |*Loops* anchor:week04[]
 
 * Read: Sedgewick and Wayne, Sec 1.3 (`while` and `for` loops)
@@ -59,8 +62,8 @@
 * link:slides-azpoliak/lecture06_09_20.pdf[Lecture 06 slides (Poliak)] link:slides-azpoliak/lecture07_09_22.pdf[Lecture 07 slides (Poliak)]
 
 //-----------------------------
-|4
-| Week of Sept 26th
+|5
+| Week of February 13th
 |*Arrays, Strings, File I/O* anchor:week05[]
 
 * Read: Sedgewick and Wayne, Sec 1.4, 1.5, (Strings) 3.1
@@ -71,8 +74,8 @@
 * Lab activity: Code Jam 02, link:jam2Guide.html[Jam 2 Study Guide]
 
 //-----------------------------
-|5
-| Week of Oct 3rd
+|6
+| Week of February 20th
 |*Functions* anchor:week06[]
 
 * Read: Sedgewick and Wayne, Sec 2.1
@@ -83,16 +86,16 @@
 * Lab activity: Code Jam 02 Review
 
 //-----------------------------
-|6
-| Week of Oct 10th (Fall Break)
-|
+|7
+| Week of February 27th
+| Midterm week
 
-* *NO LECTURES, LABS, ASSIGNMENTS*
 
 //-----------------------------
-|7
-| Week of Oct 17th
+|8
+| Week of March 6th (Spring Break)
 |*Object oriented programming* anchor:week07[]
+* *NO LECTURES, LABS, ASSIGNMENTS*
 
 * Read: Sedgewick and Wayne, Sec 3.1, 3.2
 * link:asst06.html[Assignment 6]: *Due October 27*
@@ -102,8 +105,8 @@
 * Lab activity: Code Jam 03 Practice
 
 //-----------------------------
-|8
-| Week of Oct 24th 
+|9
+| Week of March 13th
 |*Object oriented programming: using objects* anchor:week08[]
 
 * Read: Sedgewick and Wayne, Sec 3.1, 3.2
@@ -114,8 +117,8 @@
 * Lab activity: Code jam 03, link:jam3Guide.html[Jam 3 Study Guide]
 
 //-----------------------------
-|9
-| Week of October 31st
+|10
+| Week of March 20th
 |*Search and sort* anchor:week09[]
 
 * Read: Sedgewick and Wayne, Sec 4.2
@@ -126,8 +129,8 @@
 * Lab activity: Code Jam 04 Practice
 
 //-----------------------------
-|10
-|Week of Nov 7th
+|11
+|Week of March 27th
 |*Search and sort, Runtime analysis* anchor:week10[]
 
 * Read: Sedgewick and Wayne, Sec 4.2
@@ -138,9 +141,11 @@
 * Lab activity: Code jam 04, link:jam4Guide.html[Jam 4 Study Guide]
 
 //-----------------------------
-|11
-|Week of Nov 14th
+|12
+|Week of April 3rd
 |*Recursion* anchor:week11[]
+
+** No class April 5th**
 
 * Read: Sedgewick and Wayne, Sec 2.3
 * link:.html[Assignment 10]: *Due Dec 1st*
@@ -150,20 +155,21 @@
 * Lab activity: Code Jam 05 Practice
 
 //-----------------------------
-|12
-|Week of Nov 21st
+|13
+|Week of April 10th
 |*Data structures: List, Hashmap and Dictionary* anchor:week12[]
 
 * Read: Sedgewick and Wayne, Sec 4.4
-* *NO CLASS THURSDAY, NOV 24th*
+* *NO CLASS THURSDAY, April 13*
 * link:notes-alinen/notes-nov21.html[Lecture Notes and Resources (Normoyle)] 
 * link:notes-azpoliak/notes-nov21.html[Lecture Notes and Resources (Poliak)] 
 * Lab activity: Code Jam 05, link:jam5Guide.html[Code jam 05]
 
 //-----------------------------
-|13
-|Week of Nov 28th
+|14
+|Week of April 17th
 |*Data structures: List, Hashmap and Dictionary* anchor:week13[]
+
 
 * Read: Sedgewick and Wayne, Sec 4.4
 * link:.html[Assignment 11]: *Due Dec 8*
@@ -172,8 +178,8 @@
 * Lab activity: Code Jam 06 Practice
 
 //-----------------------------
-|14
-|Week of Dec 5th
+|15
+|Week of April 24th
 |*Final Thoughts* anchor:week14[]
 
 * link:jam5Guide.html[Final exam guide]
