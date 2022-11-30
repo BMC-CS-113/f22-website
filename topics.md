@@ -1,0 +1,11 @@
+terminal
+variables
+conditionals
+functions
+recursion
+loops
+arrays
+objects
+searching
+sorting
+2D-array
